@@ -1,0 +1,21 @@
+#ignore these files
+
+desktop.ini
+
+Product/
+
+Gecko Setup/
+
+Backup/
+Debug/
+Release/
+Size/
+CodeAnalyst/
+
+.vs/
+
+*.vcxproj.user
+
+*.ncb
+
+*.suo
