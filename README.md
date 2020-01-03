@@ -3,6 +3,10 @@ GECKO ENCRYPTION README
 GECKO encryption source code.
 Faster, smaller, and with better diffusion than AES
 
+For a complete breakdown of Gecko vs AES performance, please visit my webpage:
+https://www.tomasellosoftware.com/gecko_test_harnesses.html
+
+
 Gecko is what is known as a substitution-permutation network.
 Gecko operates on a block size of 128 bits, with three different key lengths supported: 128, 192 and 256 bits.
 
