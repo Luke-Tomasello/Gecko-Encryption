@@ -9,7 +9,7 @@ Gecko operates on a block size of 128 bits, with three different key lengths sup
 Gecko is written in standard C without any support libraries other than the standard C libraries.
 Gecko is highly portable and is easily ported to hardware, server-side encryption, or application based.
 
-Gecko is intended to me used anywhere you need small, fast and secure encryption.
+Gecko is intended to be used anywhere you need small, fast and secure encryption.
 
 ABOUT THE AUTHOR
 
