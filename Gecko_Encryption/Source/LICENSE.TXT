@@ -36,4 +36,5 @@
    Feedback is welcome.
    Facebook: https://www.facebook.com/Tomasello.Software
    email: luke@tomasello.com
+   Source code available on GitHub: https://github.com/Luke-Tomasello/Gecko-Encryption
 */
