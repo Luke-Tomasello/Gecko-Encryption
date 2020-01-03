@@ -20,3 +20,4 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 Feedback is welcome.
 Facebook: https://www.facebook.com/Tomasello.Software
 email: luke@tomasello.com
+Source code available on GitHub: https://github.com/Luke-Tomasello/Gecko-Encryption
